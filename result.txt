@@ -1,0 +1,22 @@
+dir
+ Volume in drive C is Windows 10
+ Volume Serial Number is BE07-63CE
+
+ Directory of C:\Users\ixliv\Desktop\self_improve_agent
+
+22.04.2024  20:54    <DIR>          .
+22.04.2024  20:54    <DIR>          ..
+22.04.2024  20:58               302 answer.txt
+22.04.2024  20:58                 3 command.txt
+20.04.2024  20:59             3В 575 executor.py
+20.04.2024  22:48             2В 078 format_answer.py
+22.04.2024  20:48             2В 132 LLM_generator.py
+22.04.2024  20:58               379 log.txt
+22.04.2024  20:44               817 prompt.txt
+22.04.2024  20:58                 0 result.txt
+19.04.2024  17:09               287 Run.py
+19.04.2024  15:17               192 Start from scratch.py
+              10 File(s)          9В 765 bytes
+               2 Dir(s)  17В 293В 295В 616 bytes free
+
+

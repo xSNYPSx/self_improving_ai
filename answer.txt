@@ -1,0 +1,9 @@
+I'm excited to start improving myself!
+
+First, let's take a look at my current file structure:
+
+{command_start}
+dir
+{command_end}
+
+Please provide the output of the dir command so I can see what files and folders are available. This will help me get started on exploring and improving my code.
